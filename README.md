@@ -34,7 +34,7 @@ If there are any bugs present or a need of a new feature to be present within th
 =======
 * Linux
 * Mac OS X (experimental) --> This can change depending on the actual chagnes from Openwall - John the Ripper
-=======
+
 
 ### :diamonds: &nbsp; Installation Method :diamonds:
 
